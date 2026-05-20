@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-catdog
-<h1>Hi, I'm Jorge, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hi, I'm Jorge, an up and coming <a href="https://www.linkedin.com/in/jorgemtaborda/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
