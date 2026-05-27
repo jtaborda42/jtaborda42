@@ -7,4 +7,4 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jtaborda42/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jtaborda42/[active-directory-within-azure-vms)]
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jtaborda42/[active-directory-within-azure-vms)
