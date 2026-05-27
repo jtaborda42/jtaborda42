@@ -8,7 +8,3 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jtaborda42/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jtaborda42/active-directory-within-azure)
-
-<h2>🤳Connect with me:</h2>
-
-[linkedin]: [https://www.linkedin.com/in/jorgemtaborda]
