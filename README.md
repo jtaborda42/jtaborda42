@@ -11,6 +11,4 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt=" | LinkedIn" width="22px" src="https://www.linkedin.com/in/jorgemtaborda/>][linkedin]
-
 [linkedin]: [https://www.linkedin.com/in/jorgemtaborda]
